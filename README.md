@@ -1,2 +1,4 @@
 # lucasdaniel2A
-cursando o ensino medio
+Cursando o Ensino Medio
+Estou estudando na Alura
+Estou me desenvolvendo na linguagem JavaScript
